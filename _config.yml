@@ -15,9 +15,8 @@ author: Britney Lozza
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Skills: "skills"
-    - CV: "cv"
+  # Skills: "skills"
+  CV: "cv"
   CanLII: "https://canlii.org"
 
 # --- Logo --- #
