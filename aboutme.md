@@ -8,7 +8,8 @@ My name is Britney Lozza. I have the following qualities:
 
 - I enjoy video games, my favourite is the Mass Effect series and Grand Theft Auto 5 Online.
 - I'm an expert with computers. I run Linux instead of Windows or MacOS.
-- I'm transgender, diagnosed with autism spectrum disorder and a savant.
+- I'm transgender.
+- I was diagnosed with autism spectrum disorder and I'm a savant.
 - I write code in markdown which is a programming language for outputting documents.
 
 What else do you need?
