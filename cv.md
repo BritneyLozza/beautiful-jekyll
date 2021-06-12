@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: CV
+subtitle: My resume
 ---
 
 # Britney Lozza
@@ -82,15 +82,5 @@ subtitle: Why you'd want to go on a date with me
 | **Richard Leighton Award** | 2019 |
 | :--- | ---: |
 | Sheridan College, Brampton |  |
-| **Negotiation Foundations** | 2019 |
-| Lynda.com Online Training |  |
-| **Teamwork Foundations** | 2019 |
-| Lynda.com Online Training |  |
-| **Public Relations Foundations** | 2019 |
-| Lynda.com Online Training |  |
-| **Business Etiquette: Phone, Email and Text** | 2018 |
-| Lynda.com Online Training |  |
-| **Accounting Foundations: Bookkeeping** | 2018 |
-| Lynda.com Online Training |  |
-| **Creating and Giving Business Presentations** | 2018 |
-| Lynda.com Online Training |  |
+| **Honours** | 2010 |
+| triOS College, Brampton |  |
