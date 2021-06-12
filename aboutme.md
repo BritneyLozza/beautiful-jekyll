@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What you need to know about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Britney Lozza. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I enjoy video games, my favourite is the Mass Effect series.
+- I'm an expert with computers. I run Linux instead of Windows or MacOS.
 
 What else do you need?
 
 ### My story
+After a long career of 15 years working with computers, I transitioned from male to female. During my transition I experienced a lot of hate and ridicule. As a result, I became interested in law. I'm a natural at it. I've successfully negotiated settlements from numerous respondents via the HRTO. I've won an OLRB case as well. Details can be found in my CV.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My legal victory
+
+<a href="https://pooranlaw.com/another-labour-board-decision-finds-independent-contractor-actually-employee/">Another Labour Board Decision Finds “Independent Contractor” Actually Employee</a>
