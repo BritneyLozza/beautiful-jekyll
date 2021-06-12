@@ -27,7 +27,6 @@ subtitle: My resume
 | Self-Employed | August 2019 - Current |
 | https://www.bettercallbritney.ca | |
 
-
 - Client file analysis and review for licensees.
 - Legal Research for licensees.
 - Providing administrative support to licensees virtually.
@@ -35,6 +34,17 @@ subtitle: My resume
 - Locate and develop case relevant information through legal research.
 - Administratively support and attend trials.
 - Various self-represented experience with the HRTO & OLRB on matters of public interest.
+
+| Karas Legal Services Professional Corporation | Brampton, Ontario |
+| :--- | ---: |
+| Contract | August 2019 - Current |
+| https://karasadvocacy.com/ | |
+
+- Client file analysis and review.
+- Legal Research.
+- Providing administrative support virtually.
+- Draft legal documents for the Human Rights Tribunal of Ontario.
+- Locate and develop case relevant information through legal research.
 
 
 | Kalsi & Associates | Brampton, Ontario |
