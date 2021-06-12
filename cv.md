@@ -8,6 +8,8 @@ subtitle: My resume
 
 # Highlights of Qualifications
 
+- Nine successful settlement negotations.
+- One legal victory with the OLRB (<a href="https://canlii.ca/t/j9g4g">https://canlii.ca/t/j9g4g</a>)
 - Proficiency in technology, including Microsoft Word, Outlook, Excel and PowerPoint.
 - Above average attention to detail and hyper-focus.
 - Typing speed: 70 Words per minute.
