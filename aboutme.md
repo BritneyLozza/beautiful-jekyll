@@ -6,8 +6,9 @@ subtitle: What you need to know about me
 
 My name is Britney Lozza. I have the following qualities:
 
-- I enjoy video games, my favourite is the Mass Effect series.
+- I enjoy video games, my favourite is the Mass Effect series and Grand Theft Auto 5 Online.
 - I'm an expert with computers. I run Linux instead of Windows or MacOS.
+- I'm transgender, diagnosed with autism spectrum disorder and a genius.
 
 What else do you need?
 
