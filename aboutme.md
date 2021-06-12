@@ -6,9 +6,10 @@ subtitle: What you need to know about me
 
 My name is Britney Lozza. I have the following qualities:
 
+- I'm a licensed paralegal and technology expert.
 - I enjoy video games, my favourite is the Mass Effect series and Grand Theft Auto 5 Online.
-- I'm an expert with computers. I run Linux instead of Windows or MacOS.
-- I'm transgender.
+- I run Linux instead of Windows or MacOS. This is expert level stuff.
+- I'm transgender, male to female.
 - I was diagnosed with autism spectrum disorder and I'm a savant.
 - I write code in markdown which is a programming language for outputting documents.
 
