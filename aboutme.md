@@ -29,3 +29,6 @@ experienced a lot of hate and ridicule. As a result, I became interested in law.
 <a href="https://github.com/BritneyLozza/legal-precedents">Coded Legal Precedent Letters</a>
 - Uses markdown and pandoc to generate legal precent letters through markdown code.
 - This is genius level stuff, requires Linux and programming skills.
+
+<a href="https://github.com/BritneyLozza/Fedora-Secure-Workstation">Fedora Secure Workstation</a>
+- Scripts that make it easier to lock down and secure a linux based Fedora Workstation.
